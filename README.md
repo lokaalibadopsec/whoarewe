@@ -76,7 +76,7 @@ And that was pretty much it.
 
 What started as a random domain name during a school exercise slowly became the name we used for our projects.
 
-Since then, **badopsec.local** has stuck.. well borned but you got the point.
+Since then, **badopsec.local** has stuck.. well born but you got the point.
 
 Today, we use the name for the projects, experiments and documentation we build together.
 
@@ -121,6 +121,7 @@ OR:
 This GitHub is basically our collection of projects, experiments, documentation and whatever technical rabbit hole we happen to fall into next.
 
 Welcome to **badopsec.local**.
+**dare to be a nerd**.
 
 ---
 
@@ -128,7 +129,7 @@ Welcome to **badopsec.local**.
 
 Moi.
 
-Me ollaan **badopsec.local** joka kahden nuoren suomalaisen IT-opiskelijan muodostama duo jotka tykkää tai esittää tykkäävänsä oppia asioita tekemällä eikä pelkästään lukemalla niistä.
+Me ollaan **badopsec.local** joka on kahden nuoren suomalaisen IT-opiskelijan muodostama duo jotka tykkää tai esittää tykkäävänsä oppia asioita tekemällä eikä pelkästään lukemalla niistä.
 
 Meidän perusidea on aika yksinkertainen:
 
@@ -193,7 +194,7 @@ Nimeä ei oikeastaan koskaan suunniteltu.
 
 Teimme **Windows Server Managementiin** liittyvää harjoitusta jossa säädettiin kansioiden käyttöoikeuksia, käyttäjiä ja domainin toimintaa.
 
-Kun saatoom domain viimein toimimaan, Windows pamautti ruudulle ilmoituksen:
+Kun saatiin domain viimein toimimaan, Windows pamautti ruudulle ilmoituksen:
 
 > **Computer Name/Domain Changes**  
 > **Welcome to the badOPSEC.local domain.**
@@ -204,7 +205,7 @@ Satunnaisesta harjoituksessa käytetystä domain-nimestä alkoi vähitellen muod
 
 Siitä lähtien ollaan kuljettu.. tai tehty näitä hommia nimellä **badopsec.local**.
 
-Yhdessä badopse.local nimen alla tehdään projekteja, kokeiluja sekä tottakai dokumentaatiota.
+Yhdessä badopsec.local nimen alla tehdään projekteja, kokeiluja sekä tottakai dokumentaatiota.
 
 ---
 
@@ -231,7 +232,8 @@ Osa alkaa ajatuksella:
 > "Mitäköhän tapahtuu jos me kokeillaan tätä?"
 
 Molemmista yleensä oppii jotain..
-Joko sen, että tätä EI tehdä ikinä uudestaan tai että **"Täähän on bonari"**
+Joko sen, että tätä EI tehdä ikinä uudestaan tai että:
+**"Täähän on bonari"**
 
 ---
 
@@ -246,3 +248,4 @@ Haluamme kehittää taitojamme, ymmärtää järjestelmien toimintaa pintaa syve
 Tämä GitHub tili toimii käytännössä kokoelmana meidän projekteista, kokeiluista, dokumentaatiosta ja niistä teknisistä rabbit holeista, joihin seuraavaksi päädymme.
 
 Tervetuloa **badopsec.localiin**.
+**Uskalla olla nörtti**.
